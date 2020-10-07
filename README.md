@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey there! 👋🏼
+
+- ❤️ UX/UI Design | Front-end Web Development | Game Design
+- 🌱 Learning React, Lua, and Android Development
+- 💪🏼 Working on [stroke-counter](https://github.com/jlangdesign/stroke-counter), a pet project that compares the stroke counts of Simplified vs. Traditional versions of Chinese text.
+
+My [portfolio site](https://jlangdesign.github.io) is under construction, but feel free to check it out for more projects!
 
 <!--
 **jlangdesign/jlangdesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
