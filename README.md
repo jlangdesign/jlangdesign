@@ -1,10 +1,18 @@
-### Hey there! 👋🏼
+# Hey there! 👋🏼
+
+I like designing and developing fun experiences.
 
 - ❤️ UX/UI Design | Front-end Web Development | Game Design
 - 🌱 Learning React, Lua, and Android Development
 - 💪🏼 Working on [stroke-counter](https://github.com/jlangdesign/stroke-counter), a pet project that compares the stroke counts of Simplified vs. Traditional versions of Chinese text.
 
-My [portfolio site](https://jlangdesign.github.io) is under construction, but feel free to check it out for more projects!
+## Helpful links:
+
+- [My portfolio site](https://jlangdesign.github.io) - The stories behind my UX/UI design, web development, and game design projects. I am working on updating the layout and adding more process pictures so the projects are easier to digest.
+  - [My résumé (PDF)](https://jlangdesign.github.io/assets/cv-resume.pdf) - A quick summary of my work experience and skills.
+- Educational, interactive displays that I worked on as part of [Immersive Scholar](https://www.immersivescholar.org/):
+  - [Tess-celestial](https://immersive-scholar.github.io/tess-celestial/)
+  - [Coded Glass](https://immersive-scholar.github.io/coded-glass/)
 
 <!--
 **jlangdesign/jlangdesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
