@@ -2,7 +2,7 @@
 
 I like designing and developing fun experiences.
 
-- ❤️ UX/UI Design | Front-end Web Development | Game Design
+- ❤️ Product/UX Design | Front-end Web Development | Game Design
 - 🌱 Learning React, Lua, and Android Development
 - 💪🏼 Working on [stroke-counter](https://github.com/jlangdesign/stroke-counter), a pet project that compares the stroke counts of Simplified vs. Traditional versions of Chinese text.
 
