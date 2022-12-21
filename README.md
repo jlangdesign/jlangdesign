@@ -8,7 +8,7 @@ I like designing and developing fun experiences.
 
 ## Helpful links:
 
-- [My portfolio site](https://jlangdesign.github.io) - The stories behind my UX/UI design, web development, and game design projects. I am working on updating the layout and adding more process pictures so the projects are easier to digest.
+- [My portfolio site](https://jlangdesign.github.io) - The stories behind my product/UX design, web development, and game design projects. I am updating the layout and adding more process pictures to make projects easier to digest.
   - [My résumé (PDF)](https://jlangdesign.github.io/assets/cv-resume.pdf) - A quick summary of my work experience and skills.
 - Educational, interactive displays that I worked on as part of [Immersive Scholar](https://www.immersivescholar.org/):
   - [Tess-celestial](https://immersive-scholar.github.io/tess-celestial/)
