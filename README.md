@@ -3,15 +3,15 @@
 I like designing and developing fun experiences.
 
 - ❤️ Product/UX Design | User Research | Front-end Web Development
-- 🌱 Learning React, accessibility, and full-stack development
+- 📦 Products I've designed: Responsive web apps (internal and consumer-facing), native iOS/Android mobile apps, emails, kiosk UIs
+- 💼 Fields I've worked in: B2B/SaaS, B2C, B2B2C
+- 🛠️ My toolbox: Figma, HTML, CSS, JavaScript, React, Photoshop, Illustrator, After Effects
+- 🌱 Currently studying: React, accessibility, and full-stack development
 
 ## Helpful links:
 
-- [My portfolio site](https://jlangdesign.github.io) - The stories behind my work projects.
-  - [My résumé (PDF)](https://jlangdesign.github.io/homepage/cv-resume.pdf) - A quick summary of my work experience and skills.
-- Educational, interactive displays that I worked on as part of [Immersive Scholar](https://www.immersivescholar.org/):
-  - [Tess-celestial](https://immersive-scholar.github.io/tess-celestial/)
-  - [Coded Glass](https://immersive-scholar.github.io/coded-glass/)
+- [My portfolio site](https://jlangdesign.github.io)
+- [My résumé (PDF)](https://jlangdesign.github.io/homepage/cv-resume.pdf)
 
 <!--
 **jlangdesign/jlangdesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
